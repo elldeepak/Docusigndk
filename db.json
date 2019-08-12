@@ -1,54 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  {
-    "ID": "1",
-    "Name": "Senpai",
-    "Gender": "1",
-    "Class": "32",
-    "Seat": "15",
-    "Club": "0",
-    "Persona": "1",
-    "Crush": "0",
-    "BreastSize": "0",
-    "Strength": "0",
-    "Hairstyle": "1"
-      },
-  {
-    "ID": "2",
-    "Name": "Yui Rio",
-    "Gender": "0",
-    "Class": "11",
-    "Seat": "14",
-    "Club": "1",
-    "Persona": "5",
-    "Crush": "0",
-    "BreastSize": "0.5",
-    "Strength": "0",
-    "Hairstyle": "2"
-  },
-  {
-    "ID": "8",
-    "Name": "Haruto Yuto",
-    "Gender": "1",
-    "Class": "11",
-    "Seat": "12",
-    "Club": "0",
-    "Persona": "5",
-    "Crush": "0",
-    "BreastSize": "0",
-    "Strength": "0",
-    "Hairstyle": "2"
-  }
-]
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"students": [{
+			"ID": "1",
+			"Name": "Senpai",
+			"Gender": "1",
+			"Class": "32",
+			"Seat": "15",
+			"Club": "0",
+			"Persona": "1",
+			"Crush": "0",
+			"BreastSize": "0",
+			"Strength": "0",
+			"Hairstyle": "1"
+		},
+		{
+			"ID": "2",
+			"Name": "Yui Rio",
+			"Gender": "0",
+			"Class": "11",
+			"Seat": "14",
+			"Club": "1",
+			"Persona": "5",
+			"Crush": "0",
+			"BreastSize": "0.5",
+			"Strength": "0",
+			"Hairstyle": "2"
+		},
+		{
+			"ID": "8",
+			"Name": "Haruto Yuto",
+			"Gender": "1",
+			"Class": "11",
+			"Seat": "12",
+			"Club": "0",
+			"Persona": "5",
+			"Crush": "0",
+			"BreastSize": "0",
+			"Strength": "0",
+			"Hairstyle": "2"
+		}
+	]
 }
