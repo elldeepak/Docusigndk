@@ -35,7 +35,6 @@
 			"Club": "0",
 			"Persona": "1",
 			"Crush": "0",
-			"BreastSize": "0",
 			"Strength": "0",
 			"Hairstyle": "1"
 		},
@@ -48,7 +47,6 @@
 			"Club": "1",
 			"Persona": "5",
 			"Crush": "0",
-			"BreastSize": "0.5",
 			"Strength": "0",
 			"Hairstyle": "2"
 		},
@@ -61,7 +59,6 @@
 			"Club": "0",
 			"Persona": "5",
 			"Crush": "0",
-			"BreastSize": "0",
 			"Strength": "0",
 			"Hairstyle": "2"
 		}
