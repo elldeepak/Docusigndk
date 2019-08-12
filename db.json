@@ -27,7 +27,7 @@
 		"name": "typicode"
 	},
 	"students": [{
-			"ID": "1",
+			"ID": 1,
 			"Name": "Senpai",
 			"Gender": "1",
 			"Class": "32",
@@ -39,7 +39,7 @@
 			"Hairstyle": "1"
 		},
 		{
-			"ID": "2",
+			"ID": 2,
 			"Name": "Yui Rio",
 			"Gender": "0",
 			"Class": "11",
@@ -51,7 +51,7 @@
 			"Hairstyle": "2"
 		},
 		{
-			"ID": "8",
+			"ID": 8,
 			"Name": "Haruto Yuto",
 			"Gender": "1",
 			"Class": "11",
